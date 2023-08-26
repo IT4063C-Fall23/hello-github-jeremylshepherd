@@ -14,7 +14,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 ### Checkpoint 2: Update the Repository
   - Open the repository in your text editor (Ideally, VS Code).
-  - [ ] **Adding New Files.**
+  - [x] **Adding New Files.**
     - Create a new file with the following name `intro.md` and paste in the following text (as is - do not modify it):
 
     ```
@@ -22,7 +22,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
     Hello class, my name is [type your name], and I am a student at the University of [type the university name].
     ```
     - Commit your changes. Make sure you use a descriptive commit message. (e.g. "Created intro.md file")
-    - no edit the file, adding your name and university in the appropriate places.
+    - now edit the file, adding your name and university in the appropriate places.
     - Make another commit with a descriptive message. (e.g. "Added my name and university to intro.md")
     - Push your changes to GitHub and confirm that your changes are there.
     > -  Remember the difference between committing and pushing. **Committing** is a local action, your local repository captures a new snapshot of the code changes made to the repo. **Pushing** is a remote action, where you upload all the snapshots/commits to your repo on GitHub. If you don't push, the instructor can't see your updates.

@@ -7,7 +7,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
    - This step creates a repository for you on the class organization with the starter files the instructor has provided.
    - When the instructor creates the assignment on GitHub Classroom, they can configure the repository visibility setting: (public or private). Usually your assignments will be set to _private_ that way only you and the instructor can see your work.
    - > This assignment is set to _public_ so that you can see your classmates repositories and be able to collaborate with them. This is second part of the assignment (due next week).
-- [ ] Clone the generated repository to your computer.
+- [x] Clone the generated repository to your computer.
    - You can use GitHub Desktop, VS Code, or the command line to clone the repository.
   - If you don't know how you can do this, go back to the lecture videos for a demo of this process, or read ["Cloning a Repository"](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui) on GitHub Docs.
     - **Notice:** towards the top of the Docs page, you can switch the instructions depending on your environment (command line, GitHub Desktop, ...etc.) and operating system (Windows, Mac, Linux).
@@ -16,7 +16,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
   - Open the repository in your text editor (Ideally, VS Code).
   - [ ] **Adding New Files.**
     - Create a new file with the following name `intro.md` and paste in the following text (as is - do not modify it):
-    
+
     ```
     # My Name
     Hello class, my name is [type your name], and I am a student at the University of [type the university name].

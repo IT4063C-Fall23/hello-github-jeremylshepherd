@@ -26,20 +26,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- Nothing, all of this is fairly "old hat" to me by now.
 
 **I struggled with:** (repeat as needed)
-- .
+- Nothing.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 ------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
-  
+- I have been using these tools for quite some time so this was all second-nature.
+
 **I received help from the following people:** (repeat as needed)
-- . 
+- Not applicable.

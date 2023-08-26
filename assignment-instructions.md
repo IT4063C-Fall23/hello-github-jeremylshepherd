@@ -27,7 +27,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
     - Push your changes to GitHub and confirm that your changes are there.
     > -  Remember the difference between committing and pushing. **Committing** is a local action, your local repository captures a new snapshot of the code changes made to the repo. **Pushing** is a remote action, where you upload all the snapshots/commits to your repo on GitHub. If you don't push, the instructor can't see your updates.
     - > You want to commit often; every complete thought/action can be a commit, but also don't forget to push especially at the end of your work.
-  - [ ] **Editing Existing files.**
+  - [x] **Editing Existing files.**
     - Open the `README.md` file, and fill out the Reflection and Self-Assessment Section.
     - Commit your changes. Make sure you use a descriptive commit message.
     - Push your changes to GitHub and confirm that your changes are there.
